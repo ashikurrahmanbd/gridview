@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GridViewTwo</string>
+    <string-array name="countrynames">
+        <item>bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+
+    </string-array>
+
+</resources>
